@@ -1,7 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "accentColor": "#f5e0dc",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "",
-  "textFontFamily": "CaskaydiaCove NF",
-  "theme": "obsidian"
+  "textFontFamily": "IBM Plex Sans",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
